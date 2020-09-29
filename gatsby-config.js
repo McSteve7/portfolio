@@ -45,9 +45,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Damilola Ajiboye - Product Manager`,
-        short_name: `Damilola Ajiboye`,
-        description: `Online portfolio and blog of Damilola Ajiboye, A product manager based in Lagos.`,
+        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
+        short_name: `minimal-blog`,
+        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
