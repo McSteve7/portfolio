@@ -7,7 +7,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     siteTitleAlt: `Damilola Ajiboye - Product Manager`,
-    description: `Online portfolio of Damilola Ajiboye, A product manager based in Lagos Nigeria.`,
+    siteDescriptionAlt: `Online portfolio of Damilola Ajiboye, A product manager based in Lagos Nigeria.`,
   },
   plugins: [
     {
